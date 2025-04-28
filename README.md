@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Kauan Farias, seja bem vindo!
 
 - 🔭 Atualmente estou fazendo graduação em Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana)...
-- 🌱 Atualmente estou aprendendo a linguagem de programação Java...
+- 🌱 Atualmente estou aprendendo a linguagem de programação Go...
 - 📫 Como entrar em contato comigo: arrudakauanfarias@gmail.com...
 - ⚡ Curiosidade: eu toco guitarra, desenho e trabalho como designer gráfico freelancer...
 
@@ -11,6 +11,7 @@
   <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kauan-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Kauan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Kauan-Go" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg)">
 </div>
 
 ##
