@@ -11,7 +11,7 @@
   <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kauan-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Kauan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Kauan-Go" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg)">
+  <img align="center" alt="Kauan-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
 ##
